@@ -2,9 +2,6 @@ vendor/
 node_modules/
 dist/
 
-.env.example
-
-
 .idea/
 .vscode/
 .DS_Store
